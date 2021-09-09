@@ -1,0 +1,18 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+}
+/* .header-main-div {
+  padding: 20px 30px 0px;
+} */
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* padding: 8px 32px 8px 16px; */
+}
+/* #button-header {
+  padding: "106px 12px";
+  display: flex;
+} */
