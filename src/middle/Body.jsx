@@ -1,15 +1,20 @@
 import "./body.css";
-// import axios from "axios";
-// import { useEffect, useState } from "react";
-import CryptoData from "./CryptoData";
+import finstreet from "../assets/finstreet.png";
+
 
 const Body = () => {
 
 
 
     return (
+        <div>
 
-        <CryptoData />
+            <a href="https://finstreet.in/">  <img src={finstreet} alt="finestreet" /></a>
+
+
+
+        </div>
+
 
     );
 
